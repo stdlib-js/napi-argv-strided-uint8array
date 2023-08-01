@@ -41,7 +41,7 @@
   "dependencies": {
     "@stdlib/assert-napi-status-ok": "^0.0.1",
     "@stdlib/napi-argv": "github:stdlib-js/napi-argv#main",
-    "@stdlib/napi-argv-uint8array": "github:stdlib-js/napi-argv-uint8array#main",
+    "@stdlib/napi-argv-uint8array": "^0.0.2",
     "@stdlib/utils-library-manifest": "^0.0.8"
   },
   "devDependencies": {
